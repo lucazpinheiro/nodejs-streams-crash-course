@@ -13,3 +13,5 @@
 *Existe também as duplex stream, streams onde é possível ler e escrever na mesma stream.*
 
 Os três tipos são usados em uma `pipeline` como etapas, onde cada chunk da carga inicial deve passar por cada carga.
+
+fonte: https://www.youtube.com/watch?v=pB5-QzabL2I&list=WL&index=32
